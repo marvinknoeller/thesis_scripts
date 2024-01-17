@@ -1,0 +1,153 @@
+Script about the runtime information
+hmateps = 1e-09
+Eps = 8.854187817e-12
+Mu = 1.25663706144e-06
+Epsrel = 2.1
+Murel = 1.0
+WavenumberExt = 2.0958450218782563
+WavenumberInt = 3.037167981366346
+direction = [ 0.57735027 -0.57735027  0.57735027]
+polarization = [-1.+0.j  0.+1.j  1.+1.j]
+Radius r = 003
+It took 1.65879797935 seconds to load the grid 
+It took 102.300057888 seconds to set up the left hand side of the system 
+It took 41.1191129684 seconds to set up the right hand side of the system with scaledmultitraceint given 
+Parameters of GMRES:
+Tolerance = 1e-05
+Restart = None
+Strong form = True
+Number of dofs = 93174
+Number of iterations = 5
+It took 5580.45 seconds to perform GMRES
+Radius r = 004
+It took 1.7283000946 seconds to load the grid 
+It took 126.923734903 seconds to set up the left hand side of the system 
+It took 66.5036978722 seconds to set up the right hand side of the system with scaledmultitraceint given 
+Parameters of GMRES:
+Tolerance = 1e-05
+Restart = None
+Strong form = True
+Number of dofs = 93174
+Number of iterations = 5
+It took 5587.63 seconds to perform GMRES
+Radius r = 005
+It took 1.72734904289 seconds to load the grid 
+It took 129.273338079 seconds to set up the left hand side of the system 
+It took 66.8012919426 seconds to set up the right hand side of the system with scaledmultitraceint given 
+Parameters of GMRES:
+Tolerance = 1e-05
+Restart = None
+Strong form = True
+Number of dofs = 93174
+Number of iterations = 6
+It took 5889.31 seconds to perform GMRES
+Radius r = 006
+It took 30.2565689087 seconds to load the grid 
+It took 128.313560009 seconds to set up the left hand side of the system 
+It took 72.5805969238 seconds to set up the right hand side of the system with scaledmultitraceint given 
+Parameters of GMRES:
+Tolerance = 1e-05
+Restart = None
+Strong form = True
+Number of dofs = 94710
+Number of iterations = 5
+It took 5664.83 seconds to perform GMRES
+Radius r = 007
+It took 14.1847300529 seconds to load the grid 
+It took 128.007539034 seconds to set up the left hand side of the system 
+It took 68.8581769466 seconds to set up the right hand side of the system with scaledmultitraceint given 
+Parameters of GMRES:
+Tolerance = 1e-05
+Restart = None
+Strong form = True
+Number of dofs = 94710
+Number of iterations = 5
+It took 5865.33 seconds to perform GMRES
+Radius r = 008
+It took 1.43689918518 seconds to load the grid 
+It took 110.046858072 seconds to set up the left hand side of the system 
+It took 63.6763899326 seconds to set up the right hand side of the system with scaledmultitraceint given 
+Parameters of GMRES:
+Tolerance = 1e-05
+Restart = None
+Strong form = True
+Number of dofs = 73506
+Number of iterations = 5
+It took 4529.69 seconds to perform GMRES
+Radius r = 009
+It took 27.01218009 seconds to load the grid 
+It took 106.615272999 seconds to set up the left hand side of the system 
+It took 57.2161300182 seconds to set up the right hand side of the system with scaledmultitraceint given 
+Parameters of GMRES:
+Tolerance = 1e-05
+Restart = None
+Strong form = True
+Number of dofs = 73506
+Number of iterations = 5
+It took 4504.68 seconds to perform GMRES
+Radius r = 01
+It took 1.42232608795 seconds to load the grid 
+It took 125.039107084 seconds to set up the left hand side of the system 
+It took 59.7024559975 seconds to set up the right hand side of the system with scaledmultitraceint given 
+Parameters of GMRES:
+Tolerance = 1e-05
+Restart = None
+Strong form = True
+Number of dofs = 73362
+Number of iterations = 6
+It took 4687.73 seconds to perform GMRES
+Radius r = 012
+It took 23.374409914 seconds to load the grid 
+It took 107.086745024 seconds to set up the left hand side of the system 
+It took 59.593444109 seconds to set up the right hand side of the system with scaledmultitraceint given 
+Parameters of GMRES:
+Tolerance = 1e-05
+Restart = None
+Strong form = True
+Number of dofs = 73362
+Number of iterations = 6
+It took 4715.61 seconds to perform GMRES
+Radius r = 014
+It took 1.45833206177 seconds to load the grid 
+It took 114.420300007 seconds to set up the left hand side of the system 
+It took 59.7439758778 seconds to set up the right hand side of the system with scaledmultitraceint given 
+Parameters of GMRES:
+Tolerance = 1e-05
+Restart = None
+Strong form = True
+Number of dofs = 70878
+Number of iterations = 6
+It took 4492.37 seconds to perform GMRES
+Radius r = 016
+It took 44.4951269627 seconds to load the grid 
+It took 109.778461933 seconds to set up the left hand side of the system 
+It took 61.0972411633 seconds to set up the right hand side of the system with scaledmultitraceint given 
+Parameters of GMRES:
+Tolerance = 1e-05
+Restart = None
+Strong form = True
+Number of dofs = 70878
+Number of iterations = 6
+It took 4518.33 seconds to perform GMRES
+Radius r = 018
+It took 1.38393592834 seconds to load the grid 
+It took 106.43996501 seconds to set up the left hand side of the system 
+It took 54.7715690136 seconds to set up the right hand side of the system with scaledmultitraceint given 
+Parameters of GMRES:
+Tolerance = 1e-05
+Restart = None
+Strong form = True
+Number of dofs = 66054
+Number of iterations = 6
+It took 4431.85 seconds to perform GMRES
+Radius r = 02
+It took 33.2806971073 seconds to load the grid 
+It took 110.904991865 seconds to set up the left hand side of the system 
+It took 59.7076878548 seconds to set up the right hand side of the system with scaledmultitraceint given 
+Parameters of GMRES:
+Tolerance = 1e-05
+Restart = None
+Strong form = True
+Number of dofs = 66054
+Number of iterations = 6
+It took 4524.73 seconds to perform GMRES
